@@ -1,0 +1,6 @@
+{
+  "name": "AI Livestock Health Monitoring & Veterinary Assistance",
+  "description": "AI-powered livestock classification, skin condition screening, explainable AI (Grad-CAM), and veterinary assistance platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
